@@ -1,0 +1,23 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/Ki5syN/homeworks-npm#readme",
+  "bugs": {
+    "url": "https://github.com/Ki5syN/homeworks-npm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ki5syN/homeworks-npm.git"
+  },
+  "license": "ISC",
+  "author": "Bazinga",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
